@@ -1,6 +1,6 @@
 body {
   background: url('./testbg.jpg') repeat fixed;
-  background-size: cover;
+  background-size: auto;
   color: #66FF00;
   font-family: "Courier New", monospace;
 }
